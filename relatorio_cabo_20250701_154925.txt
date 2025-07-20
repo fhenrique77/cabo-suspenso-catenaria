@@ -1,0 +1,18 @@
+RELATÓRIO COMPLETO - ANÁLISE DO CABO SUSPENSO
+============================================================
+
+PARÂMETROS DO PROBLEMA:
+- Constante C: 0.041 m⁻¹
+- Condições de contorno: y(0) = 15 m, y(20) = 10 m
+- Passo de integração: 0.01
+- Tolerância: 1e-05
+- Tempo de execução: 0.997 segundos
+
+PROPRIEDADES FÍSICAS:
+- comprimento_arco: 21.165188
+- ponto_mais_baixo: x = 15.87 m, y = 9.650024 m
+- tensao_minima: 24.390244
+- tensao_maxima: 29.740220
+- curvatura_maxima: 0.041000
+- flecha: 5.349976
+- parametro_a: 24.390244
